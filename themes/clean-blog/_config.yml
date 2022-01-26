@@ -8,7 +8,7 @@ menu:
   文档: https://pony86-ai.readthedocs.io
   关于: /about/me.html
   Github:  
-    url: https://github.com/pony86/blog
+    url: https://github.com/pony86/ai
     icon: github
 
 # Title on top left of menu. Leave empty to use main blog title
@@ -43,7 +43,7 @@ favicon:
 twitter_url:
 twitter_handle:
 facebook_url:
-github_url: https://github.com/pony86/blog
+github_url: 
 gitlab_url:
 linkedin_url:
 mailto:
